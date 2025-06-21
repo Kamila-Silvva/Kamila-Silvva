@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b0663&height=120&section=header"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=28&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Kamila+Silva+%F0%9F%91%8B;Tenho+21+anos;Apaixonada+por+tecnologia+e+desenvolvimento!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3b0663&size=28&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Kamila+Silva+%F0%9F%91%8B;Tenho+21+anos;Apaixonada+por+tecnologia+e+desenvolvimento!)](https://git.io/typing-svg)
 
 </div>
 
