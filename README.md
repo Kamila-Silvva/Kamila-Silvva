@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b0663&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=651485&height=120&section=header"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3b0663&size=28&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Kamila+Silva+%F0%9F%91%8B;Tenho+21+anos;Apaixonada+por+tecnologia+e+desenvolvimento!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=651485&size=28&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Kamila+Silva+%F0%9F%91%8B;Tenho+21+anos;Apaixonada+por+tecnologia+e+desenvolvimento!)](https://git.io/typing-svg)
 
 </div>
 
@@ -54,10 +54,10 @@ Sou uma entusiasta da tecnologia, atualmente no 4º semestre de Análise e Desen
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kamila-Silvva&bg_color=0d1117&color=ff91a4&line=ff91a4&point=ff91a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kamila-Silvva&bg_color=0d1117&color=651485&line=651485&point=651485&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kamila-Silvva&show_icons=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Estatísticas Kamila Silva" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamila-Silvva&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" alt="Top Linguagens Kamila Silva"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kamila-Silvva&show_icons=true&hide_border=true&title_color=651485&icon_color=651485&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Estatísticas Kamila Silva" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamila-Silvva&layout=compact&hide_border=true&title_color=651485&text_color=651485&bg_color=0d1117" alt="Top Linguagens Kamila Silva"/>
 
 </div>
 
@@ -73,5 +73,5 @@ Sou uma entusiasta da tecnologia, atualmente no 4º semestre de Análise e Desen
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=100&section=footer" alt="Rodapé"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=651485&height=100&section=footer" alt="Rodapé"/>
 </div>
