@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=651485&size=20&center=true&vCenter=true&width=600&pause=1000&lines=Blue+Team+como+base.;Red+Team+como+destino.;Threat+Intelligence+como+curiosidade.;Kali+Linux+como+SO+do+dia+a+dia.;Labs+como+método+de+aprendizado.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=651485&size=20&center=true&vCenter=true&width=600&pause=1000&lines=Blue+Team+como+base.;Red+Team+como+destino.;Threat+Intelligence+como+curiosidade.;Labs+como+método+de+aprendizado.)](https://git.io/typing-svg)
 
 </div>
 
@@ -67,8 +67,6 @@ certs = [
     "[ ] SC-200                                     — em progresso",
 ]
 ```
-
----
 
 ---
 
