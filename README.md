@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,100:651485&height=200&section=header&text=Kamila%20Silva&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Blue%20Team%20%7C%20SOC%20Analyst%20Jr%20%7C%20Threat%20Hunter&descSize=18&descAlignY=75&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,100:651485&height=200&section=header&text=Kamila%20Silva&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Blue%20Team%20→%20Red%20Team%20%7C%20Threat%20Intelligence&descSize=18&descAlignY=75&descAlign=50"/>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=651485&size=20&center=true&vCenter=true&width=600&pause=1000&lines=TCP%2F53+em+desktop%3F+Eu+vejo+você.;Wireshark+%2B+Python+%2B+Kali+%3D+home.;Not+by+content+—+but+by+behavior.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=651485&size=20&center=true&vCenter=true&width=600&pause=1000&lines=Blue+Team+como+base.;Red+Team+como+destino.;Threat+Intelligence+como+curiosidade.;Kali+Linux+como+SO+do+dia+a+dia.;Labs+como+método+de+aprendizado.)](https://git.io/typing-svg)
 
 </div>
 
@@ -37,13 +37,16 @@
 ┌──────────────────────┬──────────────────────────────────────┬───────────────┐
 │  PROJETO             │ DESCRIÇÃO                            │ STACK         │
 ├──────────────────────┼──────────────────────────────────────┼───────────────┤
-│  dns_analyzer.py     │ Detecta TCP/53, DGA e exfiltração    │ Python, Scapy │
+│  dns_analyzer.py     │ Detecta anomalias em tráfego DNS:    │ Python, Scapy │
+│                      │ alta entropia, volume e protocolos   │               │
 ├──────────────────────┼──────────────────────────────────────┼───────────────┤
-│  Lab TCPDump + DNS   │ UDP vs TCP/53 — captura ao vivo      │ TCPDump, dig  │
+│  Análise de Tráfego  │ Captura e inspeção de pacotes        │ Wireshark     │
+│                      │ em ambiente controlado               │ TCPDump       │
 ├──────────────────────┼──────────────────────────────────────┼───────────────┤
-│  Exfiltração via /53 │ Socket TCP capturado no Wireshark    │ Python        │
+│  Diagramas Protocolo │ Fluxo, ataques e config segura:      │ Draw.io       │
+│                      │ DNS, DHCP, Kerberos, SMB, SAML       │ PDF           │
 ├──────────────────────┼──────────────────────────────────────┼───────────────┤
-│  Diagramas Protocolo │ DNS, DHCP, Kerberos, SMB — ataques   │ Draw.io / PDF │
+│  CTF / HTB           │ Desafios práticos de fundamentos     │ HackTheBox    │
 └──────────────────────┴──────────────────────────────────────┴───────────────┘
 ```
 
