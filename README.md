@@ -67,17 +67,6 @@ certs = [
 
 ---
 
-## `~/stats`
-
-<div align="center">
-
-[![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=Kamila-Silvva&bg_color=0d1117&color=651485&line=651485&point=651485&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kamila-Silvva&show_icons=true&hide_border=true&title_color=651485&icon_color=651485&text_color=c9d1d9&bg_color=0d1117&rank_icon=github"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamila-Silvva&layout=compact&hide_border=true&title_color=651485&text_color=651485&bg_color=0d1117"/>
-
-</div>
-
 ---
 
 <div align="center">
@@ -85,10 +74,6 @@ certs = [
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/kamila-alves-silva/)
 [![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white&color=D14836)](mailto:kamilasilva.tech@gmail.com)
 
-```
-// TCP na porta 53 em desktop não tem motivo legítimo de existir.
-// Mas você chegando até aqui? Esse eu aceito. 🛡️
-```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:651485,100:0d0d0d&height=120&section=footer"/>
 
