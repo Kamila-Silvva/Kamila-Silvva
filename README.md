@@ -75,7 +75,4 @@ certs = [
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/kamila-alves-silva/)
 [![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white&color=D14836)](mailto:kamilasilva.tech@gmail.com)
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:651485,100:0d0d0d&height=120&section=footer"/>
-
 </div>
