@@ -19,19 +19,6 @@
 
 ---
 
-```bash
-$ whoami
-> kamila-silva — Blue Team | SOC Analyst Jr | Threat Hunter
-
-$ cat /etc/mission
-> Detectar o que não deveria estar ali.
-> Kali Linux como SO principal. Labs como método.
-> Mentoria ativa com gestor de Blue Team/SOC/CSIRT (20+ anos).
-
-$ uname -a
-> Blue Team | InfraDelas 2026 (CCNA) | Her CyberTracks ITU/ONU
-```
-
 ---
 
 ## `~/tools` — Stack de Segurança
